@@ -1,2 +1,5 @@
-**.wav
-**.flac
+**/.wav
+**/.flac
+**/authtoken.txt
+**/*~
+ipa_vowels/**
